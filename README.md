@@ -11,19 +11,19 @@
 ---
 
 ## 📖 Table of Contents
-- [About](#💡about)
-- [Features](#⚙️features)
-- [Requirements](#🧾requirements)
-- [Installation](#🛠️installation)
-- [Usage](#🚀usage)
+- [About](#about)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
   - [List All Wi-Fi Profiles](#list-all-wi-fi-profiles)
   - [Get Profile Details](#get-profile-details)
-- [Project Structure](#📁project-structure)
-- [Security & Ethics](#🔒security--ethics)
-- [License](#📜license)
-- [Disclaimer](#⚠️disclaimer)
-- [Contributing](#🤝contributing)
-- [Author](#👨‍💻author)
+- [Project Structure](#project-structure)
+- [Security & Ethics](#security--ethics)
+- [License](#license)
+- [Disclaimer](#disclaimer)
+- [Contributing](#contributing)
+- [Author](#author)
 
 ---
 
@@ -197,4 +197,5 @@ Steps:
 **Mayank Dhyani**
 Full Stack Developer | Security & PHP Enthusiast
 📧 [mayankdhyani1997@gmail.com](mailto:mayankdhyani1997@gmail.com)
+
 🌐 [GitHub Profile](https://github.com/mayankdhyani97)
